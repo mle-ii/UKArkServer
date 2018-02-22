@@ -30,7 +30,7 @@ function initMap() {
   };
 
   arkMapOverlay = new google.maps.GroundOverlay(
-    "https://mle-ii/UKArServer/images/Ragnarok_Ocean_Topographic_Map.jpg",
+    "https://mle-ii.github.io/UKArkServer/images/Ragnarok_Ocean_Topographic_Map.jpg",
     imageBounds
   );
   arkMapOverlay.setMap(map);
