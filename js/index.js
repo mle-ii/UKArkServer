@@ -97,7 +97,8 @@ function initMap() {
     { lat:32, lng:42, name:"KSR Knight" },
     { lat:71.6, lng:69.1, name:"Keegan & Lauren"},
     { lat: 41, lng: 15, name: "Pirate Isle - MR HellHound UK" },
-    {lat:67.6, lng: 61.4, name: "McScruff"},
+    { lat:67.6, lng: 61.4, name: "McScruff"},
+    { lat:77.6, lng: 17.2, name: "adamwilliams" },
     { lat: 24.3, lng: 41.2, name: "Infinite Maze" },
     { lat: 15, lng: 39, name: "Fishing Event" },
     { lat: 21, lng: 40, name: "Castle used for events" }
